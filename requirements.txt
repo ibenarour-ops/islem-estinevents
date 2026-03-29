@@ -1,0 +1,8 @@
+Django
+ djangorestframework
+ djangorestframework-simplejwt
+ django-cors-headers
+ python-decouple
+ google-auth-oauthlib
+ google-auth-httplib2
+ Pillow
